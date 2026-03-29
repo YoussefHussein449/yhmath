@@ -1,5 +1,5 @@
 # yhmath
-yhmath is a Python package specialized in mathematics. This is version 1.0.2.
+yhmath is a Python package specialized in mathematics. This is version 1.1.4.
 
 Install
 -
